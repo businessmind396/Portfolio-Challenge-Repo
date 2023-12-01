@@ -1,11 +1,11 @@
-# WebDevWizards Portfolio Challenge Event
+# WebDevWizards Portfolio Challenge Event 🚀✨
 
-Welcome, WebDevWizards! 🚀✨ Are you ready to unleash the magic of your coding skills and creativity? Join us in the WebDevWizards Portfolio Challenge and showcase your journey as a web developer through a spellbinding portfolio!
+Welcome, WebDevWizards! Are you ready to showcase your coding skills and creativity? Join us in the WebDevWizards Portfolio Challenge and unleash the magic of web development through your enchanting portfolio!
 
 ## Challenge Details:
 
 1. **Fork the Repository:**
-   - Begin your magical journey by forking this repository to your GitHub account. [Fork Here](https://github.com/businessmind396/Portfolio-Challenge-Repo)
+   - Begin your magical journey by forking this repository.
 
 2. **Build Your Portfolio:**
    - Use your coding prowess to craft a stunning web developer portfolio. Share your skills, projects, and let your personality shine through your magical creation.
@@ -34,7 +34,7 @@ Welcome, WebDevWizards! 🚀✨ Are you ready to unleash the magic of your codin
 
 ## Deadline for Spells:
 
-Submit your enchanted portfolio by [Insert Deadline].
+Submit your enchanted portfolio by January 7, 2024, 8:16 PM (Nepal Time, NPT).
 
 ## Prizes:
 
@@ -45,3 +45,7 @@ Submit your enchanted portfolio by [Insert Deadline].
 Connect with other wizards, share your magical creations, and discuss your coding spells in the [Discussion Section/Linked Discord Channel].
 
 May your coding spells be ever magical! 🧙‍♂️✨
+
+---
+
+**Note:** Make sure to follow the [code of conduct](link-to-your-code-of-conduct) during the challenge. Happy coding!
